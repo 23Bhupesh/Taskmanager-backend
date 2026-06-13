@@ -1,0 +1,15 @@
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\dto\TaskDTO.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\repository\TaskRepository.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\repository\UserRepository.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\security\JwtAuthFilter.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\TaskManagerApplication.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\config\SecurityConfig.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\model\Task.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\controller\AuthController.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\controller\TaskController.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\service\TaskService.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\service\AuthService.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\model\User.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\security\JwtUtil.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\exception\GlobalExceptionHandler.java
+C:\Users\bhupe\Downloads\taskmanager-project\taskmanager-backend\src\main\java\com\bhupesh\taskmanager\dto\AuthDTO.java
