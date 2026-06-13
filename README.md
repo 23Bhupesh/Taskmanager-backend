@@ -1,5 +1,4 @@
-# 📋 Task Manager — Full Stack Project
-### Java Spring Boot + React.js | Built by Bhupesh Sahu
+
 
 A full-stack task management application demonstrating REST API design,
 JWT authentication, and a modern React frontend.
